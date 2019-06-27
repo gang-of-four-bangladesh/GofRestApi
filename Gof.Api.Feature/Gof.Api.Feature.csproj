@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gof.Api.Core\Gof.Api.Core.csproj" />
+    <ProjectReference Include="..\Gof.Api.Data\Gof.Api.Data.csproj" />
+    <ProjectReference Include="..\Gof.Api.Domain\Gof.Api.Domain.csproj" />
+    <ProjectReference Include="..\Gof.Api.Dto\Gof.Api.Dto.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
