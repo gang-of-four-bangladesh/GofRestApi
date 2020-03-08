@@ -4,7 +4,6 @@ using Gof.Api.Dto;
 using Gof.Api.Core.Infrastructure;
 using Gof.Api.Domain;
 using Gof.Api.Data;
-using Gof.Api.Data;
 using Gof.Api.Feature;
 
 namespace Gof.Api.Feature
